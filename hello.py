@@ -16,4 +16,8 @@ class Student(Person):
 obj = Student('Hieu', 23)
 obj.display()
 obj.displayS()
+<<<<<<< HEAD
 #hello everybody âsdf
+=======
+#hello everybody sdsfds
+>>>>>>> 2ff265dec506d04f1d36560aa82ccc05e4a5e93f
